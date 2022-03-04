@@ -1,7 +1,4 @@
-[filesImg]: https://img.shields.io/github/directory-file-count/ZhenyaYoratt/JBlocks
-[filesImg]: https://github.com/ZhenyaYoratt/JBlocks
 
-[![files]][filesImg]
 ## Извините. Игра ещё в разработке и невозможно выкладывать!
 
 # JBlocks
