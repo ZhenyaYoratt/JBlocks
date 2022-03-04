@@ -15,4 +15,4 @@
 
 #### Автор не хочет нарушать права других, так как игра ещё не первой версии.
 
-© Zhenya Sugonyaev 2019-2022 (ZhenyaYoratt)
+© Zhenya Sugonyaev 2021-2022 (ZhenyaYoratt)
